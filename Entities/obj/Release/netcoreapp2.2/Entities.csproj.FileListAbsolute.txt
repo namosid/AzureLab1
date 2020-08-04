@@ -1,0 +1,9 @@
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\bin\Release\netcoreapp2.2\Entities.deps.json
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\bin\Release\netcoreapp2.2\Entities.dll
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\bin\Release\netcoreapp2.2\Entities.pdb
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Release\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Release\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Release\netcoreapp2.2\Entities.AssemblyInfo.cs
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Release\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Release\netcoreapp2.2\Entities.dll
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Release\netcoreapp2.2\Entities.pdb

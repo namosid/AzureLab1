@@ -1,0 +1,17 @@
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+D:\Downloads\EventMessagingDemo-master\EventMessagingDemo-master\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+D:\Lab\AzureLab-1\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+D:\Lab\AzureLab-1\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+D:\Lab\AzureLab-1\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\Lab\AzureLab-1\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+D:\Lab\AzureLab-1\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+D:\Lab\AzureLab-1\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+D:\Lab\AzureLab-1\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+D:\Lab\AzureLab-1\Entities\obj\Debug\netcoreapp2.2\Entities.pdb

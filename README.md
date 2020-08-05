@@ -1,12 +1,20 @@
 # AzureLab1
 Azure Lab 1 will discuss about below Azure Components:
+
 IoT Hub
+
 IoT Device Client
+
 Azure WebApp
+
 Azure Service Bus
+
 Azure Function
+
 Cosmos DB 
+
 SignalR 
+
 Through 3 Paths:
 1.	Process Order - Client Panel to Admin Panel which includes (Azure WebApp, Azure Service Bus, Azure Function, Cosmos DB and SignalR)
 2.	Update Order Status - Admin Panel to Client Panel (Azure WebApp, Azure Service Bus, Azure Function, Cosmos DB and SignalR)
@@ -117,5 +125,6 @@ IoTHubEndPoint :
 Hope that article helps you to understand Azure components (IoT Hub, IoT Device Client, Azure WebApp, Azure Service Bus, Azure Function, Cosmos DB and SignalR) integration and configuration with working example.
 
 You can get complete code here https://github.com/namosid/AzureLab1.
+
 In Next Azure Lab we will discuss about other new and exciting Azure components.
 

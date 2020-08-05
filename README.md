@@ -20,6 +20,10 @@ Through 3 Paths:
 2.	Update Order Status - Admin Panel to Client Panel (Azure WebApp, Azure Service Bus, Azure Function, Cosmos DB and SignalR)
 3.	Process Order - IoT Device to Admin Panel (IoT Hub, IoT Device Client, Azure WebApp, Azure Service Bus, Azure Function, Cosmos DB and SignalR)
 
+We are going to create application based on below architecture:
+
+![alt tag](https://github.com/namosid/AzureLab1/blob/master/AzureLab1%20-%20Architecture.png)
+
 You can get complete code here https://github.com/namosid/AzureLab1, Download and start experiencing live learning by following below steps.
 
 Path 1 (Client Panel to Admin Panel) Setup:

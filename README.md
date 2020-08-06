@@ -1,5 +1,5 @@
 # AzureLab1
-Azure Lab 1 will discuss about below Azure Components:
+Azure Lab 1 will discuss about Real-time order processing using IoT and SignalR including below Azure Components:
 
 IoT Hub
 

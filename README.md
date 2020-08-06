@@ -1,5 +1,5 @@
-# AzureLab1
-Azure Lab 1 will discuss about Real-time order processing using IoT and SignalR including below Azure Components:
+# AzureLab1 - Real-time order processing using IoT-SignalR & Web-SignalR
+Here we will discuss about Real-time order processing using IoT-SignalR & Web-SignalR including below Azure Components:
 
 IoT Hub
 
@@ -26,7 +26,7 @@ We are going to create application based on below architecture:
 
 You can get complete code here https://github.com/namosid/AzureLab1, Download and start experiencing live learning by following below steps.
 
-Path 1 (Client Panel to Admin Panel) Setup:
+# Path 1 (Client Panel to Admin Panel) Web-SignalR Setup:
 1.	Create SignalR service on Azure portal.
 2.	Deploy SignalRNegotiate Function on Azure from your visual studio IDE.
 3.	Add Application Setting for “AzureSignalRConnectionString” as per below images:
@@ -82,7 +82,7 @@ Currently our Admin and Client Panel both are running on localhost so we have ad
 13.	Run Application and add Product through Client Panel and magic happen you got notification through SignalR on Admin Panel.
 ![alt tag](https://github.com/namosid/AzureLab1/blob/master/Images/Image%2014.png)
 
-Path 2 (Admin Panel to Client Panel) Setup:
+# Path 2 (Admin Panel to Client Panel) Setup:
 1.	Open Admin=>Controller=>HomeController.cs
 In ChangeOrderStatus function update endpoint and masterkey variable of your CosmosDB
 In UpdateServiceBus function add azure service bus connection string.
@@ -94,7 +94,7 @@ Add AzureSignalRConnectionString same as point 3.
 3.	Run Admin & OrderDemo Application. On Admin panel Accept\Reject Order which notification through our process comes on OrderDemo application as per below.
 ![alt tag](https://github.com/namosid/AzureLab1/blob/master/Images/Image%2016.png)
  
-Path 3 (IoT Device to Admin Panel) Setup:
+# Path 3 (IoT Device to Admin Panel) Setup:
 1.	Create IoT Hub.
 ![alt tag](https://github.com/namosid/AzureLab1/blob/master/Images/Image%2017.png)
 2.	Add IoT Device in IoT hub component
